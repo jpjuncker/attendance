@@ -1,0 +1,1210 @@
+<RaidInfo>
+<key>08/22/17 22:25:53</key>
+<start>08/22/17 22:25:53</start>
+<end>08/23/17 00:47:26</end>
+<zone>Black Temple</zone>
+<PlayerInfos>
+<key1>
+<name>Alfi</name>
+<race>Draenei</race>
+<guild>Legion of Doom</guild>
+<sex>2</sex>
+<class>SHAMAN</class>
+<level>70</level>
+</key1>
+<key2>
+<name>Blinkzie</name>
+<race>BloodElf</race>
+<guild>Horde Trade Guard</guild>
+<sex>3</sex>
+<class>MAGE</class>
+<level>70</level>
+</key2>
+<key3>
+<name>Bostontj</name>
+<race>Human</race>
+<guild>N/A</guild>
+<sex>2</sex>
+<class>WARLOCK</class>
+<level>70</level>
+</key3>
+<key4>
+<name>Caass</name>
+<race>Orc</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>WARRIOR</class>
+<level>70</level>
+</key4>
+<key5>
+<name>Damii</name>
+<race>Draenei</race>
+<guild>Legion of Doom</guild>
+<sex>2</sex>
+<class>PALADIN</class>
+<level>70</level>
+</key5>
+<key6>
+<name>Dazly</name>
+<race>Orc</race>
+<guild>All pass</guild>
+<sex>2</sex>
+<class>SHAMAN</class>
+<level>70</level>
+</key6>
+<key7>
+<name>Donatelo</name>
+<race>Tauren</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>DRUID</class>
+<level>70</level>
+</key7>
+<key8>
+<name>Dropjack</name>
+<race>Draenei</race>
+<guild>Huge Mistake</guild>
+<sex>3</sex>
+<class>SHAMAN</class>
+<level>70</level>
+</key8>
+<key9>
+<name>Fozz</name>
+<race>Gnome</race>
+<guild>Legion of Doom</guild>
+<sex>2</sex>
+<class>WARLOCK</class>
+<level>70</level>
+</key9>
+<key10>
+<name>Gahl</name>
+<race>Tauren</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>DRUID</class>
+<level>70</level>
+</key10>
+<key11>
+<name>Grizzlemaw</name>
+<race>Draenei</race>
+<guild>N/A</guild>
+<sex>2</sex>
+<class>SHAMAN</class>
+<level>70</level>
+</key11>
+<key12>
+<name>Hynm</name>
+<race>Draenei</race>
+<guild>Crash</guild>
+<sex>3</sex>
+<class>PRIEST</class>
+<level>70</level>
+</key12>
+<key13>
+<name>Jondoe</name>
+<race>Draenei</race>
+<guild>N/A</guild>
+<sex>2</sex>
+<class>SHAMAN</class>
+<level>70</level>
+</key13>
+<key14>
+<name>Korogg</name>
+<race>Orc</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>HUNTER</class>
+<level>70</level>
+</key14>
+<key15>
+<name>Kowlyko</name>
+<race>Tauren</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>DRUID</class>
+<level>70</level>
+</key15>
+<key16>
+<name>Kuntar</name>
+<race>Orc</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>HUNTER</class>
+<level>70</level>
+</key16>
+<key17>
+<name>Nostradamos</name>
+<race>Dwarf</race>
+<guild>Legion of Doom</guild>
+<sex>2</sex>
+<class>PRIEST</class>
+<level>70</level>
+</key17>
+<key18>
+<name>Palatauren</name>
+<race>NightElf</race>
+<guild>Legion of Doom</guild>
+<sex>3</sex>
+<class>WARRIOR</class>
+<level>70</level>
+</key18>
+<key19>
+<name>Quavo</name>
+<race>Scourge</race>
+<guild>N/A</guild>
+<sex>2</sex>
+<class>MAGE</class>
+<level>70</level>
+</key19>
+<key20>
+<name>Rahelm</name>
+<race>BloodElf</race>
+<guild>Burn</guild>
+<sex>3</sex>
+<class>MAGE</class>
+<level>70</level>
+</key20>
+<key21>
+<name>Shaugie</name>
+<race>Troll</race>
+<guild>Svensk</guild>
+<sex>2</sex>
+<class>MAGE</class>
+<level>70</level>
+</key21>
+<key22>
+<name>Shug</name>
+<race>BloodElf</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>PALADIN</class>
+<level>70</level>
+</key22>
+<key23>
+<name>Silverpala</name>
+<race>BloodElf</race>
+<guild>Team Evolution</guild>
+<sex>3</sex>
+<class>PALADIN</class>
+<level>70</level>
+</key23>
+<key24>
+<name>Slindza</name>
+<race>Scourge</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>PRIEST</class>
+<level>70</level>
+</key24>
+<key25>
+<name>Sprintin</name>
+<race>Orc</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>WARRIOR</class>
+<level>70</level>
+</key25>
+<key26>
+<name>Tatsumaru</name>
+<race>Orc</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>SHAMAN</class>
+<level>70</level>
+</key26>
+<key27>
+<name>Teknomagik</name>
+<race>Human</race>
+<guild>Legion of Doom</guild>
+<sex>3</sex>
+<class>WARLOCK</class>
+<level>70</level>
+</key27>
+<key28>
+<name>Vardob</name>
+<race>Human</race>
+<guild>Crash</guild>
+<sex>2</sex>
+<class>PALADIN</class>
+<level>70</level>
+</key28>
+<key29>
+<name>Vulgros</name>
+<race>Scourge</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>WARLOCK</class>
+<level>70</level>
+</key29>
+<key30>
+<name>Wulpix</name>
+<race>Draenei</race>
+<guild>Crash</guild>
+<sex>3</sex>
+<class>SHAMAN</class>
+<level>70</level>
+</key30>
+<key31>
+<name>Xaanna</name>
+<race>Draenei</race>
+<guild>N/A</guild>
+<sex>3</sex>
+<class>PALADIN</class>
+<level>70</level>
+</key31>
+<key32>
+<name>Zeake</name>
+<race>Tauren</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>DRUID</class>
+<level>70</level>
+</key32>
+<key33>
+<name>Zuliku</name>
+<race>Troll</race>
+<guild>The Justice League</guild>
+<sex>2</sex>
+<class>SHAMAN</class>
+<level>70</level>
+</key33>
+</PlayerInfos>
+<BossKills>
+<key1>
+<name>High Warlord Naj'entus</name>
+<time>08/22/17 22:38:59</time>
+<attendees>
+<key1>
+<name>Alfi</name>
+</key1>
+<key2>
+<name>Blinkzie</name>
+</key2>
+<key3>
+<name>Bostontj</name>
+</key3>
+<key4>
+<name>Damii</name>
+</key4>
+<key5>
+<name>Dazly</name>
+</key5>
+<key6>
+<name>Dropjack</name>
+</key6>
+<key7>
+<name>Gahl</name>
+</key7>
+<key8>
+<name>Korogg</name>
+</key8>
+<key9>
+<name>Kowlyko</name>
+</key9>
+<key10>
+<name>Kuntar</name>
+</key10>
+<key11>
+<name>Nostradamos</name>
+</key11>
+<key12>
+<name>Palatauren</name>
+</key12>
+<key13>
+<name>Shaugie</name>
+</key13>
+<key14>
+<name>Shug</name>
+</key14>
+<key15>
+<name>Silverpala</name>
+</key15>
+<key16>
+<name>Slindza</name>
+</key16>
+<key17>
+<name>Sprintin</name>
+</key17>
+<key18>
+<name>Tatsumaru</name>
+</key18>
+<key19>
+<name>Teknomagik</name>
+</key19>
+<key20>
+<name>Vardob</name>
+</key20>
+<key21>
+<name>Vulgros</name>
+</key21>
+<key22>
+<name>Wulpix</name>
+</key22>
+<key23>
+<name>Zeake</name>
+</key23>
+</attendees>
+</key1>
+<key2>
+<name>Supremus</name>
+<time>08/22/17 23:06:27</time>
+<attendees>
+<key1>
+<name>Alfi</name>
+</key1>
+<key2>
+<name>Blinkzie</name>
+</key2>
+<key3>
+<name>Bostontj</name>
+</key3>
+<key4>
+<name>Damii</name>
+</key4>
+<key5>
+<name>Dazly</name>
+</key5>
+<key6>
+<name>Donatelo</name>
+</key6>
+<key7>
+<name>Dropjack</name>
+</key7>
+<key8>
+<name>Korogg</name>
+</key8>
+<key9>
+<name>Kowlyko</name>
+</key9>
+<key10>
+<name>Kuntar</name>
+</key10>
+<key11>
+<name>Nostradamos</name>
+</key11>
+<key12>
+<name>Palatauren</name>
+</key12>
+<key13>
+<name>Shaugie</name>
+</key13>
+<key14>
+<name>Shug</name>
+</key14>
+<key15>
+<name>Silverpala</name>
+</key15>
+<key16>
+<name>Slindza</name>
+</key16>
+<key17>
+<name>Sprintin</name>
+</key17>
+<key18>
+<name>Tatsumaru</name>
+</key18>
+<key19>
+<name>Teknomagik</name>
+</key19>
+<key20>
+<name>Vardob</name>
+</key20>
+<key21>
+<name>Vulgros</name>
+</key21>
+<key22>
+<name>Wulpix</name>
+</key22>
+<key23>
+<name>Zeake</name>
+</key23>
+</attendees>
+</key2>
+<key3>
+<name>Shade of Akama</name>
+<time>08/22/17 23:26:27</time>
+<attendees>
+<key1>
+<name>Alfi</name>
+</key1>
+<key2>
+<name>Blinkzie</name>
+</key2>
+<key3>
+<name>Bostontj</name>
+</key3>
+<key4>
+<name>Damii</name>
+</key4>
+<key5>
+<name>Dazly</name>
+</key5>
+<key6>
+<name>Donatelo</name>
+</key6>
+<key7>
+<name>Dropjack</name>
+</key7>
+<key8>
+<name>Korogg</name>
+</key8>
+<key9>
+<name>Kowlyko</name>
+</key9>
+<key10>
+<name>Kuntar</name>
+</key10>
+<key11>
+<name>Nostradamos</name>
+</key11>
+<key12>
+<name>Palatauren</name>
+</key12>
+<key13>
+<name>Shaugie</name>
+</key13>
+<key14>
+<name>Shug</name>
+</key14>
+<key15>
+<name>Silverpala</name>
+</key15>
+<key16>
+<name>Slindza</name>
+</key16>
+<key17>
+<name>Sprintin</name>
+</key17>
+<key18>
+<name>Tatsumaru</name>
+</key18>
+<key19>
+<name>Teknomagik</name>
+</key19>
+<key20>
+<name>Vardob</name>
+</key20>
+<key21>
+<name>Vulgros</name>
+</key21>
+<key22>
+<name>Wulpix</name>
+</key22>
+<key23>
+<name>Zeake</name>
+</key23>
+</attendees>
+</key3>
+</BossKills>
+<note>
+<![CDATA[ - Zone: Black Temple]]>
+</note>
+<Join>
+<key1>
+<player>Alfi</player>
+<race>Draenei</race>
+<class>SHAMAN</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key1>
+<key2>
+<player>Blinkzie</player>
+<race>BloodElf</race>
+<class>MAGE</class>
+<sex>3</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key2>
+<key3>
+<player>Bostontj</player>
+<race>Human</race>
+<class>WARLOCK</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key3>
+<key4>
+<player>Caass</player>
+<race>Orc</race>
+<class>WARRIOR</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key4>
+<key5>
+<player>Damii</player>
+<race>Draenei</race>
+<class>PALADIN</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key5>
+<key6>
+<player>Dazly</player>
+<race>Orc</race>
+<class>SHAMAN</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:29:54</time>
+</key6>
+<key7>
+<player>Donatelo</player>
+<race>Tauren</race>
+<class>DRUID</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:47:03</time>
+</key7>
+<key8>
+<player>Dropjack</player>
+<race>Draenei</race>
+<class>SHAMAN</class>
+<sex>3</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key8>
+<key9>
+<player>Fozz</player>
+<race>Gnome</race>
+<class>WARLOCK</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/23/17 00:13:07</time>
+</key9>
+<key10>
+<player>Gahl</player>
+<race>Tauren</race>
+<class>DRUID</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key10>
+<key11>
+<player>Grizzlemaw</player>
+<race>Draenei</race>
+<class>SHAMAN</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key11>
+<key12>
+<player>Hynm</player>
+<race>Draenei</race>
+<class>PRIEST</class>
+<sex>3</sex>
+<level>70</level>
+<time>08/23/17 00:01:29</time>
+</key12>
+<key13>
+<player>Jondoe</player>
+<race>Draenei</race>
+<class>SHAMAN</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:52:08</time>
+</key13>
+<key14>
+<player>Korogg</player>
+<race>Orc</race>
+<class>HUNTER</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key14>
+<key15>
+<player>Kowlyko</player>
+<race>Tauren</race>
+<class>DRUID</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key15>
+<key16>
+<player>Kuntar</player>
+<race>Orc</race>
+<class>HUNTER</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key16>
+<key17>
+<player>Nostradamos</player>
+<race>Dwarf</race>
+<class>PRIEST</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key17>
+<key18>
+<player>Palatauren</player>
+<race>NightElf</race>
+<class>WARRIOR</class>
+<sex>3</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key18>
+<key19>
+<player>Quavo</player>
+<race>Scourge</race>
+<class>MAGE</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key19>
+<key20>
+<player>Rahelm</player>
+<race>BloodElf</race>
+<class>MAGE</class>
+<sex>3</sex>
+<level>70</level>
+<time>08/22/17 23:58:21</time>
+</key20>
+<key21>
+<player>Shaugie</player>
+<race>Troll</race>
+<class>MAGE</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:30:24</time>
+</key21>
+<key22>
+<player>Shug</player>
+<race>BloodElf</race>
+<class>PALADIN</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key22>
+<key23>
+<player>Silverpala</player>
+<race>BloodElf</race>
+<class>PALADIN</class>
+<sex>3</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key23>
+<key24>
+<player>Slindza</player>
+<race>Scourge</race>
+<class>PRIEST</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key24>
+<key25>
+<player>Sprintin</player>
+<race>Orc</race>
+<class>WARRIOR</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key25>
+<key26>
+<player>Tatsumaru</player>
+<race>Orc</race>
+<class>SHAMAN</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key26>
+<key27>
+<player>Teknomagik</player>
+<race>Human</race>
+<class>WARLOCK</class>
+<sex>3</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key27>
+<key28>
+<player>Vardob</player>
+<race>Human</race>
+<class>PALADIN</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key28>
+<key29>
+<player>Vulgros</player>
+<race>Scourge</race>
+<class>WARLOCK</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key29>
+<key30>
+<player>Wulpix</player>
+<race>Draenei</race>
+<class>SHAMAN</class>
+<sex>3</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key30>
+<key31>
+<player>Xaanna</player>
+<race>Draenei</race>
+<class>PALADIN</class>
+<sex>3</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key31>
+<key32>
+<player>Zeake</player>
+<race>Tauren</race>
+<class>DRUID</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/22/17 22:25:53</time>
+</key32>
+<key33>
+<player>Zuliku</player>
+<race>Troll</race>
+<class>SHAMAN</class>
+<sex>2</sex>
+<level>70</level>
+<time>08/23/17 00:00:34</time>
+</key33>
+</Join>
+<Leave>
+<key1>
+<player>Alfi</player>
+<time>08/23/17 00:47:26</time>
+</key1>
+<key2>
+<player>Blinkzie</player>
+<time>08/22/17 23:55:08</time>
+</key2>
+<key3>
+<player>Bostontj</player>
+<time>08/22/17 23:55:03</time>
+</key3>
+<key4>
+<player>Caass</player>
+<time>08/23/17 00:38:40</time>
+</key4>
+<key5>
+<player>Damii</player>
+<time>08/23/17 00:47:26</time>
+</key5>
+<key6>
+<player>Dazly</player>
+<time>08/23/17 00:42:07</time>
+</key6>
+<key7>
+<player>Donatelo</player>
+<time>08/23/17 00:34:11</time>
+</key7>
+<key8>
+<player>Dropjack</player>
+<time>08/23/17 00:34:25</time>
+</key8>
+<key9>
+<player>Fozz</player>
+<time>08/23/17 00:46:19</time>
+</key9>
+<key10>
+<player>Gahl</player>
+<time>08/23/17 00:47:26</time>
+</key10>
+<key11>
+<player>Grizzlemaw</player>
+<time>08/22/17 22:27:59</time>
+</key11>
+<key12>
+<player>Hynm</player>
+<time>08/23/17 00:38:06</time>
+</key12>
+<key13>
+<player>Jondoe</player>
+<time>08/23/17 00:35:32</time>
+</key13>
+<key14>
+<player>Korogg</player>
+<time>08/23/17 00:34:36</time>
+</key14>
+<key15>
+<player>Kowlyko</player>
+<time>08/23/17 00:47:26</time>
+</key15>
+<key16>
+<player>Kuntar</player>
+<time>08/23/17 00:38:48</time>
+</key16>
+<key17>
+<player>Nostradamos</player>
+<time>08/23/17 00:35:54</time>
+</key17>
+<key18>
+<player>Palatauren</player>
+<time>08/23/17 00:47:26</time>
+</key18>
+<key19>
+<player>Quavo</player>
+<time>08/22/17 22:27:54</time>
+</key19>
+<key20>
+<player>Rahelm</player>
+<time>08/23/17 00:38:53</time>
+</key20>
+<key21>
+<player>Shaugie</player>
+<time>08/23/17 00:34:55</time>
+</key21>
+<key22>
+<player>Shug</player>
+<time>08/23/17 00:34:45</time>
+</key22>
+<key23>
+<player>Silverpala</player>
+<time>08/23/17 00:34:36</time>
+</key23>
+<key24>
+<player>Slindza</player>
+<time>08/23/17 00:38:35</time>
+</key24>
+<key25>
+<player>Sprintin</player>
+<time>08/23/17 00:38:58</time>
+</key25>
+<key26>
+<player>Tatsumaru</player>
+<time>08/23/17 00:34:31</time>
+</key26>
+<key27>
+<player>Teknomagik</player>
+<time>08/23/17 00:35:24</time>
+</key27>
+<key28>
+<player>Vardob</player>
+<time>08/23/17 00:34:55</time>
+</key28>
+<key29>
+<player>Vulgros</player>
+<time>08/23/17 00:42:16</time>
+</key29>
+<key30>
+<player>Wulpix</player>
+<time>08/23/17 00:34:50</time>
+</key30>
+<key31>
+<player>Xaanna</player>
+<time>08/23/17 00:47:26</time>
+</key31>
+<key32>
+<player>Zeake</player>
+<time>08/23/17 00:47:26</time>
+</key32>
+<key33>
+<player>Zuliku</player>
+<time>08/23/17 00:35:16</time>
+</key33>
+</Leave>
+<Loot>
+<key1>
+<ItemName>Halberd of Desolation</ItemName>
+<ItemID>32248</ItemID>
+<Icon>INV_Weapon_Halberd_20</Icon>
+<Class>Weapon</Class>
+<SubClass>Polearms</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Kuntar</Player>
+<Costs>0</Costs>
+<Time>08/22/17 22:41:00</Time>
+<Zone>Black Temple</Zone>
+<Boss>High Warlord Naj'entus</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: High Warlord Naj'entus - 0 DKP]]>
+</Note>
+</key1>
+<key2>
+<ItemName>Ring of Captured Storms</ItemName>
+<ItemID>32247</ItemID>
+<Icon>INV_Jewelry_Ring_60</Icon>
+<Class>Armor</Class>
+<SubClass>Miscellaneous</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Dropjack</Player>
+<Costs>0</Costs>
+<Time>08/22/17 22:42:22</Time>
+<Zone>Black Temple</Zone>
+<Boss>High Warlord Naj'entus</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: High Warlord Naj'entus - 0 DKP]]>
+</Note>
+</key2>
+<key3>
+<ItemName>Pauldrons of Abyssal Fury</ItemName>
+<ItemID>32250</ItemID>
+<Icon>INV_Shoulder_HaremMatron_D_01</Icon>
+<Class>Armor</Class>
+<SubClass>Plate</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Teknomagik</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:07:26</Time>
+<Zone>Black Temple</Zone>
+<Boss>Supremus</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Supremus - 0 DKP]]>
+</Note>
+</key3>
+<key4>
+<ItemName>Felstone Bulwark</ItemName>
+<ItemID>32255</ItemID>
+<Icon>INV_Shield_38</Icon>
+<Class>Armor</Class>
+<SubClass>Shields</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Wulpix</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:07:47</Time>
+<Zone>Black Temple</Zone>
+<Boss>Supremus</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Supremus - 0 DKP]]>
+</Note>
+</key4>
+<key5>
+<ItemName>Seaspray Emerald</ItemName>
+<ItemID>32249</ItemID>
+<Icon>INV_Jewelcrafting_SeasprayEmerald_01</Icon>
+<Class>Gem</Class>
+<SubClass>Green</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:12:17</Time>
+<Zone>Black Temple</Zone>
+<Boss>Trash mob</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Trash mob - 0 DKP]]>
+</Note>
+</key5>
+<key6>
+<ItemName>Pattern: Shoulderpads of Renewed Life</ItemName>
+<ItemID>32745</ItemID>
+<Icon>INV_Scroll_04</Icon>
+<Class>Recipe</Class>
+<SubClass>Leatherworking</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:12:22</Time>
+<Zone>Black Temple</Zone>
+<Boss>Trash mob</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Trash mob - 0 DKP]]>
+</Note>
+</key6>
+<key7>
+<ItemName>Pattern: Thick Netherscale Breastplate</ItemName>
+<ItemID>29734</ItemID>
+<Icon>INV_Scroll_04</Icon>
+<Class>Recipe</Class>
+<SubClass>Leatherworking</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:12:27</Time>
+<Zone>Black Temple</Zone>
+<Boss>Trash mob</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Trash mob - 0 DKP]]>
+</Note>
+</key7>
+<key8>
+<ItemName>Shadowsong Amethyst</ItemName>
+<ItemID>32230</ItemID>
+<Icon>INV_Jewelcrafting_ShadowsongAmethyst_01</Icon>
+<Class>Gem</Class>
+<SubClass>Purple</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:12:28</Time>
+<Zone>Black Temple</Zone>
+<Boss>Trash mob</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Trash mob - 0 DKP]]>
+</Note>
+</key8>
+<key9>
+<ItemName>Pattern: Mantle of Nimble Thought</ItemName>
+<ItemID>32755</ItemID>
+<Icon>INV_Scroll_04</Icon>
+<Class>Recipe</Class>
+<SubClass>Tailoring</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:20:17</Time>
+<Zone>Black Temple</Zone>
+<Boss>Trash mob</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Trash mob - 0 DKP]]>
+</Note>
+</key9>
+<key10>
+<ItemName>Pyrestone</ItemName>
+<ItemID>32231</ItemID>
+<Icon>INV_Jewelcrafting_Pyrestone_01</Icon>
+<Class>Gem</Class>
+<SubClass>Orange</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:20:54</Time>
+<Zone>Black Temple</Zone>
+<Boss>Trash mob</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Trash mob - 0 DKP]]>
+</Note>
+</key10>
+<key11>
+<ItemName>Empyrean Sapphire</ItemName>
+<ItemID>32228</ItemID>
+<Icon>INV_Jewelcrafting_EmpyreanSapphire_01</Icon>
+<Class>Gem</Class>
+<SubClass>Blue</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:22:42</Time>
+<Zone>Black Temple</Zone>
+<Boss>Trash mob</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Trash mob - 0 DKP]]>
+</Note>
+</key11>
+<key12>
+<ItemName>Grips of Silent Justice</ItemName>
+<ItemID>32278</ItemID>
+<Icon>INV_GAUNTLETS_62</Icon>
+<Class>Armor</Class>
+<SubClass>Plate</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Sprintin</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:28:55</Time>
+<Zone>Black Temple</Zone>
+<Boss>Shade of Akama</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Shade of Akama - 0 DKP]]>
+</Note>
+</key12>
+<key13>
+<ItemName>Myrmidon's Treads</ItemName>
+<ItemID>32268</ItemID>
+<Icon>INV_Boots_Plate_06</Icon>
+<Class>Armor</Class>
+<SubClass>Plate</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Teknomagik</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:29:37</Time>
+<Zone>Black Temple</Zone>
+<Boss>Shade of Akama</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Shade of Akama - 0 DKP]]>
+</Note>
+</key13>
+<key14>
+<ItemName>Pattern: Living Earth Shoulders</ItemName>
+<ItemID>32751</ItemID>
+<Icon>INV_Scroll_04</Icon>
+<Class>Recipe</Class>
+<SubClass>Leatherworking</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:29:49</Time>
+<Zone>Black Temple</Zone>
+<Boss>Shade of Akama</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Shade of Akama - 0 DKP]]>
+</Note>
+</key14>
+<key15>
+<ItemName>Seaspray Emerald</ItemName>
+<ItemID>32249</ItemID>
+<Icon>INV_Jewelcrafting_SeasprayEmerald_01</Icon>
+<Class>Gem</Class>
+<SubClass>Green</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:32:08</Time>
+<Zone>Black Temple</Zone>
+<Boss>Trash mob</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Trash mob - 0 DKP]]>
+</Note>
+</key15>
+<key16>
+<ItemName>Empyrean Sapphire</ItemName>
+<ItemID>32228</ItemID>
+<Icon>INV_Jewelcrafting_EmpyreanSapphire_01</Icon>
+<Class>Gem</Class>
+<SubClass>Blue</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:41:52</Time>
+<Zone>Black Temple</Zone>
+<Boss>Trash mob</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Trash mob - 0 DKP]]>
+</Note>
+</key16>
+<key17>
+<ItemName>Empyrean Sapphire</ItemName>
+<ItemID>32228</ItemID>
+<Icon>INV_Jewelcrafting_EmpyreanSapphire_01</Icon>
+<Class>Gem</Class>
+<SubClass>Blue</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:50:49</Time>
+<Zone>Black Temple</Zone>
+<Boss>Trash mob</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Trash mob - 0 DKP]]>
+</Note>
+</key17>
+<key18>
+<ItemName>Pyrestone</ItemName>
+<ItemID>32231</ItemID>
+<Icon>INV_Jewelcrafting_Pyrestone_01</Icon>
+<Class>Gem</Class>
+<SubClass>Orange</SubClass>
+<Color>ffa335ee</Color>
+<Count>1</Count>
+<Player>Alfi</Player>
+<Costs>0</Costs>
+<Time>08/22/17 23:50:49</Time>
+<Zone>Black Temple</Zone>
+<Boss>Trash mob</Boss>
+<Note>
+<![CDATA[ - Zone: Black Temple - Boss: Trash mob - 0 DKP]]>
+</Note>
+</key18>
+</Loot>
+</RaidInfo>
